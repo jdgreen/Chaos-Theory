@@ -6,7 +6,7 @@
 #define B 8/3
 #define N 10000
 #define R 28
-#define M 0
+#define M 1
 #define DT 0.01
 #define X 1
 #define Y 1
